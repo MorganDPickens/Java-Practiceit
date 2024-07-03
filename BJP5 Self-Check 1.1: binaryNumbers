@@ -1,0 +1,15 @@
+ BJP5 Self-Check 1.1: binaryNumbers
+Language/Type: Java basics binary numbers
+Author: Marty Stepp (on 2019/09/19)
+
+Sound F/X
+Why do computers use binary numbers?
+
+    It is easier to build electronic devices reliably if they only have to distinguish between two electric states.
+    It is impossible to build a computer that uses a different number base than binary.
+    It makes the computer faster and more efficient than other number bases.
+    Because there are 10 types of people: Those who understand binary, and those who don't.
+    At the time when computers were invented, humans only knew about the numbers 0 and 1.
+
+
+My answer: t is easier to build electronic devices reliably if they only have to distinguish between two electric states. 
